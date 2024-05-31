@@ -1,0 +1,77 @@
+/* body{
+    background: url("rest.jpg") no-repeat;
+    background-size: cover;
+    /* border: 1px solid #000000; */
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: #000000; */
+/* }  */
+
+
+/* selector
+    (a) ID selector
+    (b) Class selector
+    (c) Tag name selector
+    (d) Universal selector(*)
+ */
+
+/* tagName  */
+
+/* #(python) */
+ /* //(javascript, java, c , c++, rust)  */
+
+
+ /* *()  */
+
+/* *{
+    padding: 0%;
+    margin: 0%;
+} */
+
+/* #demo{
+    font-size: 32px;
+}
+#para{
+    font-size: 2rem;
+} */
+
+/* small entites  */
+
+/* font , icon, border , imoj, entities   💖 */
+
+
+/* units  */
+
+/* Absolute(fixed) */
+/* 
+px (font , image)
+mm
+cm 
+in  
+*/
+
+/* Relative(browser relative) */
+/*
+
+em (font )
+rem (1rem = 16px, images, container(box), slide bar, navBar,aside)
+% 
+vh (view-port height)
+vw  (view-port width)
+*/
+
+div{
+    /* margin: top, right, bottom , left ; */
+    /* margin: 10px; */
+}
+
+.main-div{
+    background-color: rgb(38, 59, 56);
+    height: 50vh;
+    width: 90vw;
+}
+.base-div{
+    background-color: rgb(15, 44, 22);
+    height: 50vh;
+    width: 90%;
+}
